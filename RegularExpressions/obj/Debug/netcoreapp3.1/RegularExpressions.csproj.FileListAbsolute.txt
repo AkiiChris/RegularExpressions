@@ -1,0 +1,4 @@
+/Users/akiichris/Projects/RegularExpressions/RegularExpressions/obj/Debug/netcoreapp3.1/RegularExpressions.csprojAssemblyReference.cache
+/Users/akiichris/Projects/RegularExpressions/RegularExpressions/obj/Debug/netcoreapp3.1/RegularExpressions.AssemblyInfoInputs.cache
+/Users/akiichris/Projects/RegularExpressions/RegularExpressions/obj/Debug/netcoreapp3.1/RegularExpressions.AssemblyInfo.cs
+/Users/akiichris/Projects/RegularExpressions/RegularExpressions/obj/Debug/netcoreapp3.1/RegularExpressions.csproj.CoreCompileInputs.cache
